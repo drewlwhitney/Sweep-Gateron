@@ -507,7 +507,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "sweep2gerber_jlc",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
