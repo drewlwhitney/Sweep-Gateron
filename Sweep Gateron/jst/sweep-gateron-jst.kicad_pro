@@ -510,7 +510,7 @@
       "plot": "sweep2gerber_jlc",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../sweep-gateron-jst.step",
       "svg": "",
       "vrml": ""
     },

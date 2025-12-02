@@ -250,7 +250,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "sweep-bling-mx__bottom.kicad_pro",
+    "filename": "sweep-gateron__bottom.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -289,7 +289,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../sweep-gateron__bottom.step",
       "svg": "",
       "vrml": ""
     },

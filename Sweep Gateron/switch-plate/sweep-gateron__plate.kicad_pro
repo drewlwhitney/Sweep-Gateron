@@ -276,7 +276,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../sweep-gateron__plate.step",
       "svg": "",
       "vrml": ""
     },

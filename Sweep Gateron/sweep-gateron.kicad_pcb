@@ -737,8 +737,8 @@
 			(uuid "6d26d68f-1ca7-4ff3-b058-272f1c399047")
 		)
 		(fp_text user "RESET"
-			(at 0 2.286 90)
-			(layer "B.SilkS")
+			(at 0 -4.2 90)
+			(layer "F.SilkS")
 			(uuid "d3d7e298-1d39-4294-a3ab-c84cc0dc5e5a")
 			(effects
 				(font
@@ -1893,7 +1893,7 @@
 		)
 		(fp_text user "RESET"
 			(at 0 2.286 90)
-			(layer "B.SilkS")
+			(layer "F.SilkS")
 			(uuid "58126faf-01a4-4f91-8e8c-ca9e47b48048")
 			(effects
 				(font
@@ -27419,7 +27419,7 @@
 	)
 	(gr_text "Face down"
 		(at 160.10984 99.23 90)
-		(layer "F.SilkS")
+		(layer "B.SilkS")
 		(uuid "00000000-0000-0000-0000-000061987c94")
 		(effects
 			(font
@@ -27428,19 +27428,8 @@
 			)
 		)
 	)
-	(gr_text "Face down"
-		(at 139.7 99.06 90)
-		(layer "F.SilkS")
-		(uuid "dc7523a5-4408-4a51-bc92-6a47a538c094")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-			)
-		)
-	)
-	(gr_text "The Aeroplane Flies High (Turns Left, Looks Right)"
-		(at 233.62984 122.936 0)
+	(gr_text "There is no prize to perfection, only an end to pursuit"
+		(at 232.5 123 0)
 		(layer "B.SilkS")
 		(uuid "00000000-0000-0000-0000-000061987c97")
 		(effects
@@ -27449,6 +27438,17 @@
 				(thickness 0.3)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "Face down"
+		(at 139.7 99.06 90)
+		(layer "B.SilkS")
+		(uuid "dc7523a5-4408-4a51-bc92-6a47a538c094")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+			)
 		)
 	)
 	(segment
