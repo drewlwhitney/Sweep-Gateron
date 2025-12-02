@@ -1,0 +1,1 @@
+Replaces the TRRS connector with a JST connector for the battery. The JST connector can be purchased [here](https://typeractive.xyz/products/battery-jack).
