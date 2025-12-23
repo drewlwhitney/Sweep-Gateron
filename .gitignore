@@ -28,5 +28,3 @@ fp-info-cache
 *.xml
 *.csv
 
-# Gerber to order plugin folder
-gerber_to_order/
