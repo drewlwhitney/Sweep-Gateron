@@ -7,10 +7,10 @@
 A modified Ferris Sweep for [Gateron KS-33 switches](https://www.gateron.co/products/gateron-low-profile-mechanical-switch-set) ([hotswap sockets](https://www.gateron.com/products/gateron-low-profile-switch-hot-swap-pcb-socket?VariantsId=10234) required).
 
 ## Variants
-- [Basic](./Sweep%20Gateron/) - MX spacing, based on the [Sweep High](https://github.com/davidphilipbarr/Sweep/tree/main/Sweep%20High).
-- [JST](./Sweep%20Gateron/jst/) - Same as the basic version, but the TRS jack is replaced with a 2-pin JST connector for the battery in wireless builds (and the reset button is moved). **Wireless only**.
+- [Basic](./Sweep-Gateron/) - MX spacing, based on the [Sweep High](https://github.com/davidphilipbarr/Sweep/tree/main/Sweep%20High).
+- [JST](./Sweep-Gateron/jst/) - Same as the basic version, but the TRS jack is replaced with a 2-pin JST connector for the battery in wireless builds (and the reset button is moved). **Wireless only**.
 
-Both variants support a [switch plate](./Sweep%20Gateron/switch-plate/) and [bottom plate](./Sweep%20Gateron/bottom-plate/).
+Both variants support a [switch plate](./Sweep-Gateron/switch-plate/) and [bottom plate](./Sweep-Gateron/bottom-plate/).
 
 ## Components
 Unless otherwise stated, this Sweep uses the same components as the base Sweep.
